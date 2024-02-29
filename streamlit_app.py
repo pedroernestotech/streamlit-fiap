@@ -18,7 +18,7 @@ def limpar_texto_simplificado(texto):
 
 
 # Título do aplicativo
-st.title('Classificador de Texto com F1-Score')
+st.title('Classificador de Texto com F1-Score - PEDRO ERNESTO')
 
 # Upload de arquivo
 uploaded_file = st.file_uploader(
